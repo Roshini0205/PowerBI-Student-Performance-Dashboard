@@ -10,6 +10,7 @@ Dashboard screenshot attached in this repository.
 ## Tools Used
 - Power BI
 - Excel
+- Python (Pandas)
 
 ## Author
 Roshini K
